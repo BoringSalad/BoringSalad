@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on... wtf is that
 - 📫 How to reach me... discord: part_2.0
-- 😄 Pronouns: any
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing fun about me 
 
 <!---
